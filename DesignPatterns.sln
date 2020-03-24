@@ -3,17 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29911.84
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactory", "AbstractFactory\AbstractFactory.csproj", "{C812BA6C-53EA-44E4-AC95-7F637A4FB161}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractFactory", "AbstractFactory\AbstractFactory.csproj", "{C812BA6C-53EA-44E4-AC95-7F637A4FB161}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter", "Adapter\Adapter.csproj", "{BF64AC84-31D8-4538-A2A1-FAB6AF955D24}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adapter", "Adapter\Adapter.csproj", "{BF64AC84-31D8-4538-A2A1-FAB6AF955D24}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composite", "Composite\Composite.csproj", "{71016EAC-1BF5-4030-8BD6-364A7905441D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Composite", "Composite\Composite.csproj", "{71016EAC-1BF5-4030-8BD6-364A7905441D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facade", "Facade\Facade.csproj", "{014DFFCC-0207-4968-AC35-DAC399F81EB7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Facade", "Facade\Facade.csproj", "{014DFFCC-0207-4968-AC35-DAC399F81EB7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethod", "FactoryMethod\FactoryMethod.csproj", "{C1351F2E-D7F5-4BBF-9B65-8EEC67B923BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FactoryMethod", "FactoryMethod\FactoryMethod.csproj", "{C1351F2E-D7F5-4BBF-9B65-8EEC67B923BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "Singleton\Singleton.csproj", "{469C1ADA-9965-4ED8-BA20-A0B330D6C6FD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Singleton", "Singleton\Singleton.csproj", "{469C1ADA-9965-4ED8-BA20-A0B330D6C6FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormFactoryMethod", "WinFormFactoryMethod\WinFormFactoryMethod.csproj", "{ECEB0346-1D36-4C5C-9F1C-AF69D582B16E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{469C1ADA-9965-4ED8-BA20-A0B330D6C6FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{469C1ADA-9965-4ED8-BA20-A0B330D6C6FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{469C1ADA-9965-4ED8-BA20-A0B330D6C6FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECEB0346-1D36-4C5C-9F1C-AF69D582B16E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECEB0346-1D36-4C5C-9F1C-AF69D582B16E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECEB0346-1D36-4C5C-9F1C-AF69D582B16E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECEB0346-1D36-4C5C-9F1C-AF69D582B16E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

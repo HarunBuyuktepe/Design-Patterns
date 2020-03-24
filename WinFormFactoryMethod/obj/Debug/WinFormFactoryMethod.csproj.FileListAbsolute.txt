@@ -1,0 +1,10 @@
+C:\Users\Emrullah\source\repos\DesignPatterns\WinFormFactoryMethod\bin\Debug\WinFormFactoryMethod.exe.config
+C:\Users\Emrullah\source\repos\DesignPatterns\WinFormFactoryMethod\bin\Debug\WinFormFactoryMethod.exe
+C:\Users\Emrullah\source\repos\DesignPatterns\WinFormFactoryMethod\bin\Debug\WinFormFactoryMethod.pdb
+C:\Users\Emrullah\source\repos\DesignPatterns\WinFormFactoryMethod\obj\Debug\WinFormFactoryMethod.csprojAssemblyReference.cache
+C:\Users\Emrullah\source\repos\DesignPatterns\WinFormFactoryMethod\obj\Debug\WinFormFactoryMethod.Form1.resources
+C:\Users\Emrullah\source\repos\DesignPatterns\WinFormFactoryMethod\obj\Debug\WinFormFactoryMethod.Properties.Resources.resources
+C:\Users\Emrullah\source\repos\DesignPatterns\WinFormFactoryMethod\obj\Debug\WinFormFactoryMethod.csproj.GenerateResource.cache
+C:\Users\Emrullah\source\repos\DesignPatterns\WinFormFactoryMethod\obj\Debug\WinFormFactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\Emrullah\source\repos\DesignPatterns\WinFormFactoryMethod\obj\Debug\WinFormFactoryMethod.exe
+C:\Users\Emrullah\source\repos\DesignPatterns\WinFormFactoryMethod\obj\Debug\WinFormFactoryMethod.pdb
