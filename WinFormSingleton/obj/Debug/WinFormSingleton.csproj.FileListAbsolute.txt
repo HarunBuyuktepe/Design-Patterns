@@ -1,0 +1,10 @@
+C:\Users\Emrullah\source\repos\DesignPatterns\WinFormSingleton\bin\Debug\WinFormSingleton.exe.config
+C:\Users\Emrullah\source\repos\DesignPatterns\WinFormSingleton\bin\Debug\WinFormSingleton.exe
+C:\Users\Emrullah\source\repos\DesignPatterns\WinFormSingleton\bin\Debug\WinFormSingleton.pdb
+C:\Users\Emrullah\source\repos\DesignPatterns\WinFormSingleton\obj\Debug\WinFormSingleton.csprojAssemblyReference.cache
+C:\Users\Emrullah\source\repos\DesignPatterns\WinFormSingleton\obj\Debug\WinFormSingleton.Form1.resources
+C:\Users\Emrullah\source\repos\DesignPatterns\WinFormSingleton\obj\Debug\WinFormSingleton.Properties.Resources.resources
+C:\Users\Emrullah\source\repos\DesignPatterns\WinFormSingleton\obj\Debug\WinFormSingleton.csproj.GenerateResource.cache
+C:\Users\Emrullah\source\repos\DesignPatterns\WinFormSingleton\obj\Debug\WinFormSingleton.csproj.CoreCompileInputs.cache
+C:\Users\Emrullah\source\repos\DesignPatterns\WinFormSingleton\obj\Debug\WinFormSingleton.exe
+C:\Users\Emrullah\source\repos\DesignPatterns\WinFormSingleton\obj\Debug\WinFormSingleton.pdb
