@@ -17,6 +17,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Singleton", "Singleton\Sing
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormFactoryMethod", "WinFormFactoryMethod\WinFormFactoryMethod.csproj", "{ECEB0346-1D36-4C5C-9F1C-AF69D582B16E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormAbstractFactory", "WinFormAbstractFactory\WinFormAbstractFactory.csproj", "{6B9B8F0D-F224-4D0D-BD85-E90BC83A9DCC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{ECEB0346-1D36-4C5C-9F1C-AF69D582B16E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ECEB0346-1D36-4C5C-9F1C-AF69D582B16E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ECEB0346-1D36-4C5C-9F1C-AF69D582B16E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B9B8F0D-F224-4D0D-BD85-E90BC83A9DCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B9B8F0D-F224-4D0D-BD85-E90BC83A9DCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B9B8F0D-F224-4D0D-BD85-E90BC83A9DCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B9B8F0D-F224-4D0D-BD85-E90BC83A9DCC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

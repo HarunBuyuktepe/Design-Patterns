@@ -1,0 +1,10 @@
+C:\Users\Emrullah\source\repos\DesignPatterns\WinFormAbstractFactory\bin\Debug\WinFormAbstractFactory.exe.config
+C:\Users\Emrullah\source\repos\DesignPatterns\WinFormAbstractFactory\bin\Debug\WinFormAbstractFactory.exe
+C:\Users\Emrullah\source\repos\DesignPatterns\WinFormAbstractFactory\bin\Debug\WinFormAbstractFactory.pdb
+C:\Users\Emrullah\source\repos\DesignPatterns\WinFormAbstractFactory\obj\Debug\WinFormAbstractFactory.csprojAssemblyReference.cache
+C:\Users\Emrullah\source\repos\DesignPatterns\WinFormAbstractFactory\obj\Debug\WinFormAbstractFactory.Form1.resources
+C:\Users\Emrullah\source\repos\DesignPatterns\WinFormAbstractFactory\obj\Debug\WinFormAbstractFactory.Properties.Resources.resources
+C:\Users\Emrullah\source\repos\DesignPatterns\WinFormAbstractFactory\obj\Debug\WinFormAbstractFactory.csproj.GenerateResource.cache
+C:\Users\Emrullah\source\repos\DesignPatterns\WinFormAbstractFactory\obj\Debug\WinFormAbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\Emrullah\source\repos\DesignPatterns\WinFormAbstractFactory\obj\Debug\WinFormAbstractFactory.exe
+C:\Users\Emrullah\source\repos\DesignPatterns\WinFormAbstractFactory\obj\Debug\WinFormAbstractFactory.pdb
