@@ -1,0 +1,10 @@
+C:\Users\Emrullah\source\repos\DesignPatterns\WinFormAdapter\bin\Debug\WinFormAdapter.exe.config
+C:\Users\Emrullah\source\repos\DesignPatterns\WinFormAdapter\bin\Debug\WinFormAdapter.exe
+C:\Users\Emrullah\source\repos\DesignPatterns\WinFormAdapter\bin\Debug\WinFormAdapter.pdb
+C:\Users\Emrullah\source\repos\DesignPatterns\WinFormAdapter\obj\Debug\WinFormAdapter.csprojAssemblyReference.cache
+C:\Users\Emrullah\source\repos\DesignPatterns\WinFormAdapter\obj\Debug\WinFormAdapter.Form1.resources
+C:\Users\Emrullah\source\repos\DesignPatterns\WinFormAdapter\obj\Debug\WinFormAdapter.Properties.Resources.resources
+C:\Users\Emrullah\source\repos\DesignPatterns\WinFormAdapter\obj\Debug\WinFormAdapter.csproj.GenerateResource.cache
+C:\Users\Emrullah\source\repos\DesignPatterns\WinFormAdapter\obj\Debug\WinFormAdapter.csproj.CoreCompileInputs.cache
+C:\Users\Emrullah\source\repos\DesignPatterns\WinFormAdapter\obj\Debug\WinFormAdapter.exe
+C:\Users\Emrullah\source\repos\DesignPatterns\WinFormAdapter\obj\Debug\WinFormAdapter.pdb
