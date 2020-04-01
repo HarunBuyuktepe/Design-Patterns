@@ -12,6 +12,7 @@ namespace WinFormSingleton
 {
     public partial class Form1 : Form
     {
+        // Properties
         private string logID;
         private string roleID;
         public Form1()
